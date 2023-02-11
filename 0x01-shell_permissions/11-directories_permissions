@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R u+x ./
+chown -R a+x
