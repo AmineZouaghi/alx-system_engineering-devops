@@ -1,2 +1,2 @@
 #!/bin/bash
-ug-xwr,o+xwr
+o+rwx,ug-xwr
